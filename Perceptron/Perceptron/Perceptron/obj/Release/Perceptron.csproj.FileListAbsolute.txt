@@ -1,0 +1,10 @@
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\bin\Release\Perceptron.exe.config
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\bin\Release\Perceptron.exe
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\bin\Release\Perceptron.pdb
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.csprojAssemblyReference.cache
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.Form1.resources
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.Properties.Resources.resources
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.csproj.GenerateResource.cache
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.exe
+C:\Users\XenosIntel\source\repos\Perceptron\Perceptron\obj\Release\Perceptron.pdb
